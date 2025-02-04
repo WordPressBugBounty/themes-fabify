@@ -1,6 +1,6 @@
 <?php
 
-define( 'FABIFY_THEME_VERSION', '13.5' );
+define( 'FABIFY_THEME_VERSION', '13.6' );
 
 function fabify_css() {
 	$parent_style = 'specia-parent-style';
